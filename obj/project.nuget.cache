@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iYNcxvBtFe0+8GOk4QvH1Skh7BwX+7P9P8D6QcHBSx3o96tnZaHOKNRlh+7F+YhCwSAGkGJ9RZIjffvxx0hcPA==",
+  "success": true,
+  "projectFilePath": "/home/lcard00/Projects/dotNetComments/dotNetComments.csproj",
+  "expectedPackageFiles": [
+    "/home/lcard00/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

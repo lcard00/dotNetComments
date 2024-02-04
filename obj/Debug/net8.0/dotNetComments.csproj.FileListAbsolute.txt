@@ -1,0 +1,14 @@
+/home/lcard00/Projects/dotNetComments/bin/Debug/net8.0/dotNetComments
+/home/lcard00/Projects/dotNetComments/bin/Debug/net8.0/dotNetComments.deps.json
+/home/lcard00/Projects/dotNetComments/bin/Debug/net8.0/dotNetComments.runtimeconfig.json
+/home/lcard00/Projects/dotNetComments/bin/Debug/net8.0/dotNetComments.dll
+/home/lcard00/Projects/dotNetComments/bin/Debug/net8.0/dotNetComments.pdb
+/home/lcard00/Projects/dotNetComments/obj/Debug/net8.0/dotNetComments.GeneratedMSBuildEditorConfig.editorconfig
+/home/lcard00/Projects/dotNetComments/obj/Debug/net8.0/dotNetComments.AssemblyInfoInputs.cache
+/home/lcard00/Projects/dotNetComments/obj/Debug/net8.0/dotNetComments.AssemblyInfo.cs
+/home/lcard00/Projects/dotNetComments/obj/Debug/net8.0/dotNetComments.csproj.CoreCompileInputs.cache
+/home/lcard00/Projects/dotNetComments/obj/Debug/net8.0/dotNetComments.dll
+/home/lcard00/Projects/dotNetComments/obj/Debug/net8.0/refint/dotNetComments.dll
+/home/lcard00/Projects/dotNetComments/obj/Debug/net8.0/dotNetComments.pdb
+/home/lcard00/Projects/dotNetComments/obj/Debug/net8.0/dotNetComments.genruntimeconfig.cache
+/home/lcard00/Projects/dotNetComments/obj/Debug/net8.0/ref/dotNetComments.dll
